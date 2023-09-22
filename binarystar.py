@@ -1,5 +1,7 @@
 #!/bin/python3.9
 
+# Animation of a binary star with Vpython.
+
 from vpython import *
 
 scene.caption = """1) To rotate camera drag with right button.
