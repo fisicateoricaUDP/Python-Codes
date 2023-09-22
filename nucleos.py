@@ -1,5 +1,7 @@
 #!/bin/python3.9
 
+# Animation of some atomic nuclei. 
+
 from vpython import *
 
 canvas(background=color.white)
