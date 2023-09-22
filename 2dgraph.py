@@ -1,4 +1,7 @@
-#!/bin/python3.9                                                                                          
+#!/bin/python3.9     
+
+# Animation of a 2D graph with Vpython.
+
 from vpython import *
 
 tgraph = graph(title = "Gráfica de Prueba", xtitle = "x [m]", ytitle = "f(x) [m^3]")
