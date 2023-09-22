@@ -1,5 +1,9 @@
 #!/usr/bin/env python3.9
 
+# This code include a simulation of a Taylor series
+# for the function sin(x). You can change the function
+# func(z,n) to include a different one. 
+
 from vpython import *
 from numpy import sin
 from math import factorial, pi
