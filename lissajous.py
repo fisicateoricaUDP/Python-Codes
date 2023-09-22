@@ -1,5 +1,7 @@
 #!/bin/python3.9
 
+# Animation of the Lissajous figures with vpython.
+
 from vpython import sphere, vector, rate, curve, color, canvas, scene
 from math import sin, pi
 from numpy import arange
