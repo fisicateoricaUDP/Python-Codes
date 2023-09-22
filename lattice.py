@@ -1,5 +1,7 @@
 #!/bin/python3.9
 
+# Simulation of a crystalline lattice. 
+
 from vpython import sphere, vector, color, canvas
 
 scene = canvas(title = "Red Cristalina", caption = "subtitulo cualquiera")
